@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd3febb41fb2cec46bc983dfbd1968a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chartCSV: {instanceID: 0}
+  - down: {fileID: 6506870283696850529, guid: 92edce661e42531428802a99a776b921, type: 3}
+  - left: {fileID: 399922748206633189, guid: 5d276f332789eaa4695884150b511a03, type: 3}
+  - up: {fileID: 225167350889040316, guid: 30d75a09948060f4c97e00e8fded2e11, type: 3}
+  - right: {fileID: 5490331055714935437, guid: a97e723f9e99ce1479ee1df46927eed7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
